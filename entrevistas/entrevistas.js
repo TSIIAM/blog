@@ -2,12 +2,30 @@ $(document).ready(main);
 
 	function main(){
 
- 
+ botones();
+  entrevistasMatias();
 	$("#eMatias").on("click",entrevistasMatias);
 	$("#eDavid").on("click",entrevistasDavid);
 	$("#eAgustina").on("click",entrevistasAgustina);
-	entrevistasMatias();
+
 }
+
+
+function botones(){
+  var photos = [
+    "https://scontent.fmvd1-1.fna.fbcdn.net/v/t1.0-1/p160x160/20479458_1129109523857688_2831337472472591594_n.jpg?oh=8e658e7130ce6aa19788e4b8629c27c7&oe=5A34E447",
+    "https://scontent.fmvd1-1.fna.fbcdn.net/v/t1.0-1/p160x160/16426268_1206870292753791_4923073822974994329_n.jpg?oh=9e51f0d90e396a3e0b194a8bb52d9de2&oe=5A278DCE",
+    "https://scontent.fmvd1-1.fna.fbcdn.net/v/t1.0-1/p160x160/10868274_10205326464142854_8945069655366729870_n.jpg?oh=da29dba7650c4a9695d60faf06bd9b5a&oe=5A391E18",
+ 
+  ];
+
+$("#eDavidImg").attr("src",photos[0]);
+$("#eMatiasImg").attr("src",photos[1]);
+$("#eAgustinaImg").attr("src",photos[2]);
+ 
+}
+
+
 
  function entrevistasMatias(){
  

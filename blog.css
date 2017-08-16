@@ -199,11 +199,40 @@ list-style-type: none;
     cursor: pointer;
 }
 
+.entreImagenes li {
+    width: 25%;
+ border:none;
+  box-shadow: none;
+  background-color: white;
+  margin:5px 5px 5px 0;
+  padding:1px;
+}
+.entreImagenes li:hover{
+    box-shadow: none;
+    cursor: pointer;
+}
+.entrevImages {
+  width: 100%;
+  height: 25%;
+  border-radius: 50%;
+  position: relative;
+}
+.entrevImages:hover{
+    box-shadow: 1px 1px black;
+    cursor: pointer;
+    top:-4px;
+}
+
+.entrevImages .focus{
+  border:1px solid blue;
+}
+
 .opciones{
     width:400px;
     margin: 0 auto;
     
 }
+
 
 
 .nota ul li, .menu li{

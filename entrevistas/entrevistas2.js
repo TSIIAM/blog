@@ -3,11 +3,27 @@ $(document).ready(main);
 	function main(){
 
  
+ botones();
+  entrevistasMatias();
 	$("#eMatias").on("click",entrevistasMatias);
 	$("#eDiego").on("click",entrevistasDiego);
   $("#eRenso").on("click",entrevistasRenso);
 
-	entrevistasMatias();
+
+}
+
+function botones(){
+  var photos = [
+    "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAuWAAAAJGVlYWQwNTk4LTU1Y2ItNGI2Yi05YzFkLWQyMmYwNmYyZDU2NA.jpg",
+    "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIXAAAAJDBiYmY1MjY2LWVhNjUtNGY5Ni1iNjU2LTkxNGJlMTkyOGU1MQ.jpg",
+    "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAtlAAAAJDdhOTkwMGQ1LTRmZmQtNDM1Yi04ZGVkLTY1ZmMxZGFjZjIzMw.jpg",
+ 
+  ];
+
+$("#eMatiasImg").attr("src",photos[0]);
+$("#eDiegoImg").attr("src",photos[1]);
+$("#eRensoImg").attr("src",photos[2]);
+ 
 }
 
  function entrevistasMatias(){
