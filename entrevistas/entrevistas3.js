@@ -110,7 +110,7 @@ function entrevistasMatias(){
   var pregunta1 =`¿Trabajas como programador? Se puede saber donde o que tipo de trabajo realizas?. `;
   var respuesta1 = ` Si trabajo como programador. Trabajo en una empresa genial llamada Arkano Software desde hace 2 años.`;
 
-  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizarahira a futuro? Algún curso que recomiendas? `;
+  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizar a futuro? Algún curso que recomiendas? `;
   var respuesta2 = ` Actualmente estudio Analista en Tecnlogias de la Información en ORT. Me gustaria estudiar algo más enfocado a los negocios ya que me gustaria armar mi propia empresa o producto tecnologico.
 Recomiendo mucho una plataforma para estudiar Online <a href="https://platzi.com/"> Platzi</a>.`;
 
@@ -177,7 +177,7 @@ Trabajo hasta las 19 por lo general, cuando salgo voy al gym si es que no tengo 
   var respuesta1 = ` Si, soy Desarrollador de Frontend Web.
   Trabajo como frontend developer en un partner de Microsoft llamado Arkano. Me encargo de crear web apps que consumen servicios y/o información de aplicaciónes Microsoft.`;
 
-  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizarahira a futuro? Algún curso que recomiendas? `;
+  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizar a futuro? Algún curso que recomiendas? `;
   var respuesta2 = ` Estudié en el Instituto Técnologico Superior (Bachillerato en informática).
    En breve empezaré la licenciatura en sistemas en la universidad ORT.Recomiendo empezar a estudiar todo lo que es Bots e IA que es lo que se está moviendo hoy por hoy y se viene con todo.`;
 
@@ -190,8 +190,9 @@ Trabajo hasta las 19 por lo general, cuando salgo voy al gym si es que no tengo 
   var respuesta4 = ` No lo sé, Lo único que sé que todo cambia rápido y la exigencia es estar preparado para esos cambios. Experimentar en el uso y programación de Bots y programacion de redes neuronales.`;
 
   var pregunta5 = `¿Qué opinas de la paga, los horarios de trabajo en el campo laboral y/o de los beneficios de ser un programador?`; 
-  var respuesta5 = `Opino que en uruguay esta mal pago con respecto a la relación costo de vida que hay acá. 
-Pero pienso que ser programador te da muchas oportunidades y fexibilidades en general y si te gusta. Hay que darle para adelante.`;
+  var respuesta5 = `Opino que en uruguay en general esta mal pago con respecto a la relación costo de vida que hay acá.
+Pero dentro de los rubros de trabajos este es uno de los mejores!. Siempre dependerá de la empresa en la que estés.. En mi caso estoy muy conforme donde estoy!
+Y pienso que ser programador te da muchas oportunidades y fexibilidades en general, y si te gusta... Hay que darle para adelante.`;
 
   var pregunta6 = `¿Podes contarme algo sobre como es un día de trabajo para ti?.`;
   var respuesta6 = `Un día de trabajo para mi es una aventura. Siempre espero encontrarme con nuevos desafios que me lleven a superarme y a aportar lo mejor de mi para la empresa y mi equipo. `;
@@ -243,7 +244,7 @@ Pero pienso que ser programador te da muchas oportunidades y fexibilidades en ge
   var pregunta1 =`¿Trabajas como programador? Se puede saber donde o que tipo de trabajo realizas?. `;
   var respuesta1 = ` Si trabajo como programador. En Pyxis.`;
 
-  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizarahira a futuro? Algún curso que recomiendas? `;
+  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizar a futuro? Algún curso que recomiendas? `;
   var respuesta2 = `Soy ingeniero en computación egresado de la udelar. Me gustaría hacer algun master, pero no se todavia de que. No tengo ninguno para recomendar.`;
 
   var pregunta3 =  `¿Qué piensas sobre ser Autodidacta o formación formal?.Cual fue el mejor recurso que utilizaste para aprender a programar? cual es el que utilizas más a diario?.`;
@@ -306,7 +307,7 @@ Pero pienso que ser programador te da muchas oportunidades y fexibilidades en ge
   var pregunta1 =`¿Trabajas como programador? Se puede saber donde o que tipo de trabajo realizas?. `;
   var respuesta1 = `Trabajo como Senior Frontend  en Velocity Partners. Entre algunas de mis principales funciones está el diseño he implementación de componentes, configuración de ambientes de desarrollo y dar soporte sobre tecnologías frontend a compañeros tanto dentro del proyecto como dentro de la empresa. Por otro lado, también realizo, en muchas ocasiones, las entrevistas a nuevos candidatos frontend tanto para la oficina de Uruguay como para otras oficinas de la empresa. Para completar un poco lo que realizo en la empresa también dicto cursos sobre diferentes tecnologías. Creo firmemente que el conocimiento es para compartirlo.`;
 
-  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizarahira a futuro? Algún curso que recomiendas? `;
+  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizar a futuro? Algún curso que recomiendas? `;
   var respuesta2 = `Estudie en la ORT, la tecnicatura de Analista Programador. Es sumamente recomendable, si no se van a realizar estudios terciarios de ingeniería o licenciatura, realizar esta tecnicatura ya que te brinda las herramientas necesarias para salir al mercado.
 Estudiar estudio todos los días, investigando y leyendo en la web. Sin dudas recomendaría realizar los cursos, dentro de los temas que a cada cual le intereses, de pluralsight o herramientas similares. En mi caso puedo afirmar que la herramienta anteriormente mencionada son dudas es muy recomendable.`;
 
@@ -374,7 +375,7 @@ Otra cosa sumamente importante es informarse e investigar constantemente, tiene 
   var pregunta1 =`¿Trabajas como programador? Se puede saber donde o que tipo de trabajo realizas?. `;
   var respuesta1 = `Trabajo hace unos 5 años en el rubro. Arranqué en el cargo de diseñador para una empresa que originalmente tenia desarrollo en .net asi que me dedicaba más al frontend, pero como primer trabajo lo agarré sin pensarlo. Actualmente trabajo en Zonamérica para una empresa internacional como DevOps.`;
 
-  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizarahira a futuro? Algún curso que recomiendas? `;
+  var pregunta2 =  `¿Para programador donde estudiaste? Que estudio te gustaría realizar a futuro? Algún curso que recomiendas? `;
   var respuesta2 = ` Estudié en BIOS. Hice alrededor de 4 años que incluyeron Diseño Grafico, Diseño Web, Desarrollo Web y PHP+MySQL. En un futuro me gustaría aprender mas Nodejs y NoSQL. Me parece que a futuro las tecnologías mas veloces y simples van a ser las que dominen el mercado. Así como la versatilidad que estas permiten en escalas mayores.`;
 
   var pregunta3 =  `¿Qué piensas sobre ser Autodidacta o formación formal?.Cual fue el mejor recurso que utilizaste para aprender a programar? cual es el que utilizas más a diario?.`;
