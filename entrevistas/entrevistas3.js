@@ -301,7 +301,7 @@ Pero pienso que ser programador te da muchas oportunidades y fexibilidades en ge
   var img  ="";
 
   var nombre = "Santiago";
-  var intro = ` Santiago García da Rosa  es un   Senior Frontend  Developer Velocity Partners  y estudiante  de la carrera de Analista en Tecnologìas de la Información   de la  Facultad  ORT. `;
+  var intro = ` Santiago García da Rosa  es un   Senior Frontend  Developer Velocity Partners  y egresado  de la carrera de Analista en Tecnologìas de la Información   de la  Facultad  ORT. `;
 
   var pregunta1 =`¿Trabajas como programador? Se puede saber donde o que tipo de trabajo realizas?. `;
   var respuesta1 = `Trabajo como Senior Frontend  en Velocity Partners. Entre algunas de mis principales funciones está el diseño he implementación de componentes, configuración de ambientes de desarrollo y dar soporte sobre tecnologías frontend a compañeros tanto dentro del proyecto como dentro de la empresa. Por otro lado, también realizo, en muchas ocasiones, las entrevistas a nuevos candidatos frontend tanto para la oficina de Uruguay como para otras oficinas de la empresa. Para completar un poco lo que realizo en la empresa también dicto cursos sobre diferentes tecnologías. Creo firmemente que el conocimiento es para compartirlo.`;
