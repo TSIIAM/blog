@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 # Aprendiendo a Usar Live-Server
 
 ## Que es Live-Server y porque deberia aprender a usarlo?
